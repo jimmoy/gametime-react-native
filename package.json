@@ -10,6 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "debounce": "^1.2.1",
+    "ramda": "^0.27.1",
+    "ramda-extension": "^0.11.0",
     "react": "17.0.1",
     "react-native": "0.64.0"
   },
